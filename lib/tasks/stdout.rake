@@ -1,8 +1,6 @@
-namespace :db do
-  desc <<-EOS
-    desc. mofmof
-  EOS
-  task :mofmof => :environment do
-    puts "mofmof."
-  end
+desc <<-EOS
+  desc. mofmof
+EOS
+task :mofmof do
+  puts "mofmof."
 end
