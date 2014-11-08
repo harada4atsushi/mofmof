@@ -5,3 +5,6 @@ RSpec::Core::RakeTask.new(:spec)
 
 task :default => :spec
 
+#task :mofmof do
+#   puts "mofmof."
+#end
