@@ -2,5 +2,5 @@ desc <<-EOS
   desc. mofmof
 EOS
 task :mofmof do
-  puts "mofmof."
+  puts "もふもふ。"
 end
